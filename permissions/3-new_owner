@@ -1,2 +1,2 @@
 #!/bin/bash
-chown file hello betty /u
+sudo chown <betty> <hello>
