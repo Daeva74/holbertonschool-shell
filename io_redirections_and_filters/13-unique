@@ -1,2 +1,3 @@
 #!/bin/bash
-grep -o '\W\+' | sort | uniq -u
+sort list words | uniq
+
