@@ -1,2 +1,2 @@
 #!/bin/bash
-watch -n1 'ls -Art  | tail -n 1
+find /sample_directory -type f -exec ls -t1 {} + | head -1
