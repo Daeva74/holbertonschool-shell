@@ -1,2 +1,2 @@
 #!/bin/bash
-PREVPWD
+PATH=/usr/local/jdk1.8.0/bin:$PATH
