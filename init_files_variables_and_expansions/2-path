@@ -1,2 +1,2 @@
 #!/bin/bash
-PATH=/usr/local/jdk1.8.0/bin:$PATH
+export PATH="$PATH:/action"
